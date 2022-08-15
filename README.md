@@ -1,2 +1,2 @@
 # 24点小游戏
-基于https://coco.codemao.cn/
+这里存放了最新版的.apk文件
