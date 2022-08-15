@@ -1,2 +1,5 @@
 # 24点小游戏
-基于https://coco.codemao.cn/
+本作品开放二次创作，但所有经二次创作得到的源文件必须经commandpig审核后方可编译
+本作品源文件禁止任何人以任何方式分发
+需要历史版本的请在此自行下载源文件并前往coco.codemao.cn编译
+如有任何问题，请在上方Issues中create an issue
